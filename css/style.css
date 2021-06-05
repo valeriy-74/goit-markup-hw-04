@@ -123,7 +123,7 @@ ul {
   background-image: linear-gradient(
       to right,
       rgba(0, 127, 0, 0.2),
-      rgba(0, 0, 127, 0.2) /* rgba(127, 0, 0, 0.2) */
+      rgba(0, 0, 127, 0.2)
     ),
     url(../images/bg.jpg);
   color: var(--white-text-color);
